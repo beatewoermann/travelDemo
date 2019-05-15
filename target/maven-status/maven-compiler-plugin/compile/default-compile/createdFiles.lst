@@ -1,0 +1,6 @@
+com/example/travel/travelDemo/TravelDemoApplication.class
+com/example/travel/travelDemo/repository/TravelDistanceRepository.class
+com/example/travel/travelDemo/entity/TravelDistance.class
+com/example/travel/travelDemo/service/impl/TravelDistanceServiceImpl.class
+com/example/travel/travelDemo/controller/TravelDistanceRestController.class
+com/example/travel/travelDemo/service/TravelDistanceService.class
